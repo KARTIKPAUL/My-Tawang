@@ -36,22 +36,22 @@ export default function Footer() {
             <h4 className="text-white mb-3">Contact</h4>
             <p className="mb-2">
               <i className="fa fa-map-marker-alt me-3" />
-              Mirik, Darjeeling, India, West Bengal
+              Tawang, Arunachal Pradesh 790104
             </p>
             <p className="mb-2">
               <i className="fa fa-phone-alt me-3" />
-              095936 34102
+              +1 838-581-2241
             </p>
             <p className="mb-2">
               <i className="fa fa-envelope me-3" />
-              raibijay01259@gmail.com
+              mytawang@yahoo.com
 
             </p>
             <div className="d-flex pt-2">
               <a className="btn btn-outline-light btn-social" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/shalomtravles/">
+              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/Mytawang/">
                 <i className="fab fa-facebook-f" />
               </a>
               <a className="btn btn-outline-light btn-social" href="">
@@ -59,6 +59,9 @@ export default function Footer() {
               </a>
               <a className="btn btn-outline-light btn-social" href="">
                 <i className="fab fa-linkedin-in" />
+              </a>
+              <a className="btn btn-outline-light btn-social" href="https://www.instagram.com/mytawangofficial/?hl=en">
+                <i className="fab fa-instagram" />
               </a>
             </div>
           </div>
@@ -137,7 +140,7 @@ export default function Footer() {
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
               ©{" "}
               <a className="" href="#">
-              Mirik Tour & Travels 
+              My Twang Travels Agency 
               </a>
               , 2025 All Right Reserved.
               {/* Designed By{" "} */}

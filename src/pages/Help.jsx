@@ -37,7 +37,7 @@ const Help = () => {
               <Card className="shadow p-4">
                 <h2 className="text-center text-primary mb-4">How Can We Help?</h2>
                 <p>
-                  At <strong>Mirik Tour & Travels </strong>, we are dedicated to providing
+                  At <strong>My Twang Travels Agency </strong>, we are dedicated to providing
                   excellent customer support. Below, you will find answers to some
                   of the most frequently asked questions.
                 </p>
@@ -68,14 +68,14 @@ const Help = () => {
                 </p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> raibijay01259@gmail.com
+                    <strong>Email:</strong> mytawang@yahoo.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 095936 34102
+                    <strong>Phone:</strong> +1 838-581-2241
                   </li>
                   <li>
                     <strong>Address:</strong> 
-                    Mirik, West Bengal 734214
+                    Tawang, Arunachal Pradesh 790104
                   </li>
                 </ul>
 

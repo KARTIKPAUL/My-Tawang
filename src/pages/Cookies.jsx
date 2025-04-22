@@ -67,9 +67,9 @@ const CookiesPolicy = () => {
                 <h4>6. Contact Us</h4>
                 <p>If you have any questions about our Cookies Policy, contact us at:</p>
                 <ul>
-                  <li><strong>Email:</strong> raibijay01259@gmail.com</li>
-                  <li><strong>Phone:</strong> 095936 34102</li>
-                  <li><strong>Address:</strong> Mirik, Darjeeling, India, West Bengal</li>
+                  <li><strong>Email:</strong> mytawang@yahoo.com</li>
+                  <li><strong>Phone:</strong> +1 838-581-2241</li>
+                  <li><strong>Address:</strong> Tawang, Arunachal Pradesh 790104</li>
                 </ul>
               </Card>
             </Col>

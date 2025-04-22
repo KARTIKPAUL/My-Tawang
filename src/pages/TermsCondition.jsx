@@ -74,13 +74,13 @@ const TermsConditions = () => {
                 <p>If you have any questions, contact us at:</p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> raibijay01259@gmail.com
+                    <strong>Email:</strong> mytawang@yahoo.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 095936 34102
+                    <strong>Phone:</strong> +1 838-581-2241
                   </li>
                   <li>
-                    <strong>Address:</strong> Mirik, Darjeeling, India, West Bengal
+                    <strong>Address:</strong> Tawang, Arunachal Pradesh 790104
                   </li>
                 </ul>
               </Card>

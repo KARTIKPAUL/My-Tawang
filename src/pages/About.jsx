@@ -54,14 +54,19 @@ function About() {
               About Us
             </h6>
             <h1 className="mb-4">
-              Welcome to <span className="text-primary">Mirik Tour & Travels </span>
+              Welcome to <span className="text-primary">My Twang Travels Agency </span>
             </h1>
             <p className="mb-4">
-            Discover the world with Mirik Tour & Travels ! 30+ years of expertise in crafting your dream journeys across India and exotic foreign destinations.
+            Discover the world with My Twang Travels Agency ! 30+ years of expertise in crafting your dream journeys across India and exotic foreign destinations.
             </p>
             <p className="mb-4">
-            Your trip, your plan – our experience. Explore with the most trusted travel agency from North Bengal.You can explore Meghalaya · Assam · West Bengal · Gauhati, Assam, India · Kolkata, West Bengal, India · Sikkim · Rajasthan · Cooch Behar, West Bengal, India · Shillong, Meghalaya, India · Arunachal Pradesh
-            </p>
+  Your trip, your plan – our experience. Explore with 
+  <strong>Pator Gumin Tours and Travels</strong>, the most trusted travel 
+  agency based in Arunachal Pradesh. Discover the untouched beauty of 
+  Tawang · Ziro Valley · Itanagar · Bomdila · Mechuka · Dirang · 
+  Pasighat · and many more breathtaking destinations across Arunachal Pradesh.
+</p>
+
             <div className="row gy-2 gx-4 mb-4">
               <div className="col-sm-6">
                 <p className="mb-0">

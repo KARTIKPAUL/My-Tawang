@@ -29,16 +29,16 @@ function Header() {
           >
             <small className="me-3 text-light">
               <i className="fa fa-map-marker-alt me-2" />
-              Mirik, West Bengal 734214
+              Tawang, Arunachal Pradesh 790104
             </small>
             <small className="me-3 text-light">
               <i className="fa fa-phone-alt me-2" />
-              095936 34102
+              +1 838-581-2241
             </small>
             <small className="text-light">
               <i className="fa fa-envelope-open me-2" />
               
-              raibijay01259@gmail.com
+              mytawang@yahoo.com
             </small>
           </div>
         </div>
@@ -55,7 +55,7 @@ function Header() {
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              href="https://www.facebook.com/shalomtravles/"
+              href="https://www.facebook.com/Mytawang/"
             >
               <i className="fab fa-facebook-f fw-normal" />
             </a>
@@ -67,7 +67,7 @@ function Header() {
             </a>
             <a
               className="btn btn-sm btn-outline-light btn-sm-square rounded-circle me-2"
-              to=""
+              href="https://www.instagram.com/mytawangofficial/?hl=en"
             >
               <i className="fab fa-instagram fw-normal" />
             </a>
@@ -88,7 +88,7 @@ function Header() {
         <Link to="/" className="navbar-brand p-0">
           <h1 className="text-primary m-0">
             <i className="fa fa-map-marker-alt me-3" />
-            Mirik Tour & Travels 
+            My Twang Travels Agency 
           </h1>
           {/* <img src="img/logo.png" alt="Logo"> */}
         </Link>

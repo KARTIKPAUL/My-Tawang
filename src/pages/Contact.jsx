@@ -52,7 +52,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Office</h5>
-                <p className="mb-0">Mirik, Darjeeling, India, West Bengal</p>
+                <p className="mb-0">Tawang, Arunachal Pradesh 790104</p>
               </div>
             </div>
             <div className="d-flex align-items-center mb-4">
@@ -64,7 +64,7 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Mobile</h5>
-                <p className="mb-0">095936 34102</p>
+                <p className="mb-0">+1 838-581-2241</p>
               </div>
             </div>
             <div className="d-flex align-items-center">
@@ -76,15 +76,15 @@ function Contact() {
               </div>
               <div className="ms-3">
                 <h5 className="text-primary">Email</h5>
-                <p className="mb-0">raibijay01259@gmail.com</p>
+                <p className="mb-0">mytawang@yahoo.com</p>
               </div>
             </div>
           </div>
           <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-         
+          
           <iframe 
               className="position-relative rounded w-100 h-100"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56936.79214827701!2d88.14275156796953!3d26.886050275472698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39e5ccb51e871787%3A0x95b52bde5d7359f8!2sMirik%2C%20West%20Bengal!5e0!3m2!1sen!2sin!4v1745258701000!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3535.955758615951!2d91.8711981!3d27.5949012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375cf59c7287328f%3A0xb9c2f96e2b6648d3!2smyTawang!5e0!3m2!1sen!2sin!4v1745344023489!5m2!1sen!2sin"
               frameBorder={0}
               style={{ minHeight: 300, border: 0 }}
               allowFullScreen=""

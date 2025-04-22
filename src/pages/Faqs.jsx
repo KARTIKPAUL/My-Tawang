@@ -58,9 +58,9 @@ const FAQs = () => {
                     <Accordion.Body>
                       You can reach our support team via:
                       <ul>
-                        <li><strong>Email:</strong> raibijay01259@gmail.com</li>
-                        <li><strong>Phone:</strong> 095936 34102</li>
-                        <li><strong>Address:</strong> Mirik, Darjeeling, India, West Bengal</li>
+                        <li><strong>Email:</strong> mytawang@yahoo.com</li>
+                        <li><strong>Phone:</strong> +1 838-581-2241</li>
+                        <li><strong>Address:</strong> Tawang, Arunachal Pradesh 790104</li>
                       </ul>
                     </Accordion.Body>
                   </Accordion.Item>
